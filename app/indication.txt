@@ -1,0 +1,4 @@
+gravity => modifica continutul view-ului
+layout_gravity => modifica pozitia view-ului in view-ul parinte
+
+hint is like a placeholder
